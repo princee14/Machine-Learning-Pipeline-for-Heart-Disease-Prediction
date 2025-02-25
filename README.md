@@ -1,1 +1,3 @@
 # Machine-Learning-Pipeline-for-Heart-Disease-Prediction
+
+This project focuses on developing a heart disease prediction model using clinical data to assist healthcare professionals in identifying at-risk patients. Utilizing the Heart Disease dataset, the model incorporates various features such as age, cholesterol levels, and blood pressure. Key aspects of the project include data preprocessing (cleaning and feature engineering), exploratory data analysis (visualizing relationships between features and heart disease), and the implementation of machine learning algorithms like Random Forest and Logistic Regression. The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score. 
